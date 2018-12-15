@@ -2,8 +2,8 @@
 module.exports = {
   default_module: 'api',
   weixin: {
-    appid: '', // 小程序 appid
-    secret: '', // 小程序密钥
+    appid: 'wxec19b64e27c71aa5', // 小程序 appid
+    secret: '268cf2373c862037b3732d5dce9ef1af', // 小程序密钥
     mch_id: '', // 商户帐号ID
     partner_key: '', // 微信支付密钥
     notify_url: '' // 微信异步通知，例：https://www.nideshop.com/api/pay/notify
